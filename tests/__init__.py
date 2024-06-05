@@ -1,0 +1,11 @@
+error_message = "We couldn't find any matches!"
+product_home_page_title = "Kurta | Buy Kurta Online in India at Best Price"
+home_page_title = "Online Shopping for Women, Men, Kids Fashion & Lifestyle - Myntra"
+women_page_title = "Top - Get 60% off on Fancy Girls & Women Tops Online from Myntra"
+men_page_title = "Shirts - Buy from Latest Collection of Shirt Online at Best Price | Myntra"
+Kids_page_title = "Baby Dress - Buy Baby Dress online in India"
+women_page_url = "https://www.myntra.com/shop/women"
+men_page_url = "https://www.myntra.com/shop/men"
+product_name = "DressBerry"
+cart_quantity = 2
+detail_product_obj_title = "Buy Anayna Ethnic Motifs Printed Kurta  - Kurtas for Women 22143838 | Myntra"
